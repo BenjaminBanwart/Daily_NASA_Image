@@ -1,0 +1,47 @@
+html {
+    background-color: #000000;
+}
+
+#title {
+    color: #E5E5E5;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+p {
+    color: #FCA311;
+}
+
+#copyright {
+    color: #FFFFFF;
+}
+
+.img-container {
+    margin: auto;
+    margin-top: 14em;
+    width: 87%;
+}
+
+h1 {
+    margin-left: 12%;
+}
+
+#copyright {
+    margin-left: 10em;
+}
+
+#explanation {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20em;
+}
+
+.title-div {
+    background-color: #14213D;
+    width: 30%;
+    margin-left: 12%;
+    margin-top: 3em;
+}
