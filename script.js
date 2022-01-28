@@ -1,6 +1,6 @@
 //request data from NASA API 
 async function getData() {
-    var key = config.API_KEY;
+    var key = "nQcayroSffBurdwiaRx3VXiu6VMGbAnCFwy2uCBi"
     let response = await fetch(`https://api.nasa.gov/planetary/apod?api_key=${key}`);
     let data = await response.json()
     console.log(data)
