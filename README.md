@@ -1,4 +1,4 @@
-# Daily_NASA_Picture
+# Daily_NASA_Image
 
 This project utilizes the NASA APOD API.
 
